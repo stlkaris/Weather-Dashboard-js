@@ -1,1 +1,1 @@
-# Weather-Dshboard-1
+# Weather-Dashboard-js
